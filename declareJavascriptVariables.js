@@ -1,2 +1,1 @@
 var myName;
-let myName;
